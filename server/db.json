@@ -1,0 +1,70 @@
+{
+  "ingredientes": [
+    {
+      "id": "5",
+      "nome": "teste3",
+      "regra": 1,
+      "quantidade": 1,
+      "imagem": "../../../assets/pacote.png"
+    },
+    {
+      "id": "Vjhofcq",
+      "nome": "teste2",
+      "regra": 1,
+      "quantidade": 1333,
+      "imagem": "../../../assets/pacote.png"
+    },
+    {
+      "id": "W9kmFCE",
+      "nome": "teste4",
+      "regra": 1,
+      "quantidade": 1,
+      "imagem": "../../../assets/pacote.png"
+    }
+  ],
+  "estoques": [
+    {
+      "temperatura": 27.43999,
+      "capacidade": 50000,
+      "id": "0"
+    }
+  ],
+  "temperaturas": [
+    {
+      "id": 1,
+      "timestamp": 1,
+      "temperatura": 21,
+      "estoque": "0"
+    },
+    {
+      "temperatura": 27.43999,
+      "timestamp": 1652829837,
+      "estoque": "0",
+      "id": 2
+    },
+    {
+      "temperatura": 27.43999,
+      "timestamp": 1652829867,
+      "estoque": "0",
+      "id": 3
+    },
+    {
+      "temperatura": 27.43999,
+      "timestamp": 1652829897,
+      "estoque": "0",
+      "id": 4
+    },
+    {
+      "temperatura": 27.43999,
+      "timestamp": 1652829927,
+      "estoque": "0",
+      "id": 5
+    },
+    {
+      "temperatura": 27.43999,
+      "timestamp": 1652829957,
+      "estoque": "0",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.topo{
+    padding-top: 60px;
+    padding-left: 100px;
+}
+
+.formulario{
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
+
+.formulario-item{
+    padding: 10px;
+}
+
+.resultado{
+    display: block;
+    padding-left: 100px;
+    padding-top: 0px;
+}

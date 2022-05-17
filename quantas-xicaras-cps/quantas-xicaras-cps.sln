@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quantas-xicaras-cps", "quantas-xicaras-cps.csproj", "{B8086471-C9D3-4D8C-ABE6-65B2012B69EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8086471-C9D3-4D8C-ABE6-65B2012B69EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8086471-C9D3-4D8C-ABE6-65B2012B69EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8086471-C9D3-4D8C-ABE6-65B2012B69EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8086471-C9D3-4D8C-ABE6-65B2012B69EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B792792F-961A-41EC-833F-945189B8936E}
+	EndGlobalSection
+EndGlobal
